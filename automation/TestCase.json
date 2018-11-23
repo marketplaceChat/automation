@@ -1,0 +1,112 @@
+[
+  {
+    "getBoardsByIdBoard": [
+      {
+        "TestCase0": {
+          "input": {
+            "action_fields": "",
+            "action_member": "",
+            "action_memberCreator": "",
+            "action_memberCreator_fields": "",
+            "action_member_fields": "",
+            "actions": "",
+            "actions_display": "",
+            "actions_entities": "",
+            "actions_format": "",
+            "actions_limit": "",
+            "actions_since": "",
+            "boardStars": "",
+            "card_attachment_fields": "",
+            "card_attachments": "",
+            "card_checklists": "",
+            "card_fields": "",
+            "card_stickers": "",
+            "cards": "",
+            "checklist_fields": "",
+            "checklists": "",
+            "fields": "",
+            "idBoard": "5be9e328f0697318045cc0d3",
+            "label_fields": "",
+            "labels": "",
+            "labels_limit": "",
+            "list_fields": "",
+            "lists": "",
+            "member_fields": "",
+            "members": "",
+            "membersInvited": "",
+            "membersInvited_fields": "",
+            "memberships": "",
+            "memberships_member": "",
+            "memberships_member_fields": "",
+            "myPrefs": "",
+            "organization": "",
+            "organization_fields": "",
+            "organization_memberships": ""
+          },
+          "output": {}
+        }
+      }
+    ]
+  },
+  {
+    "getBatch": [
+      {
+        "TestCase0": {
+          "input": {
+            "urls": "/members/trello"
+          },
+          "output": {}
+        }
+      }
+    ]
+  },
+  {
+    "getBoardsMembersByIdBoard": [
+      {
+        "TestCase0": {
+          "input": {
+            "activity": "",
+            "fields": "",
+            "filter": "",
+            "idBoard": "5f1MkHaJ"
+          },
+          "output": {}
+        }
+      }
+    ]
+  },
+  {
+    "getBoardsChecklistsByIdBoard": [
+      {
+        "TestCase0": {
+          "input": {
+            "card_fields": "",
+            "cards": "",
+            "checkItem_fields": "",
+            "checkItems": "",
+            "fields": "",
+            "filter": "",
+            "idBoard": "5f1MkHaJ"
+          },
+          "output": {}
+        }
+      }
+    ]
+  },
+  {
+    "getBoardsListsByIdBoard": [
+      {
+        "TestCase0": {
+          "input": {
+            "card_fields": "",
+            "cards": "",
+            "fields": "",
+            "filter": "",
+            "idBoard": "5f1MkHaJ"
+          },
+          "output": {}
+        }
+      }
+    ]
+  }
+]
